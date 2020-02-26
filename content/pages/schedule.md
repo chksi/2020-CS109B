@@ -3,6 +3,7 @@ Slug: schedule
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Date: 2020-02-05
 =======
 Date: 2020-02-09
@@ -12,6 +13,9 @@ Date: 2020-02-14
 >>>>>>> upstream/master
 =======
 Date: 2020-02-19
+>>>>>>> upstream/master
+=======
+Date: 2020-02-26
 >>>>>>> upstream/master
 
 
@@ -32,8 +36,12 @@ Date: 2020-02-19
 |4|No Lecture (Presidents' Day)|Lecture 7: Bayesian 2/3|No Lab (President's Day)||HW3 - R: 2/19 D: 3/5|
 =======
 |4|No Lecture (Presidents' Day)|[Lecture 7: Bayesian 2/3]({filename}/lectures/lecture07/index.md)|No Lab (President's Day)||HW3 - R: 2/19 D: 3/5|
+<<<<<<< HEAD
 >>>>>>> upstream/master
 |5|Lecture 8: Bayesian 3/3|Lecture 9: ML/NN Roadmap|Lab 4: Bayesian||No New Assignment|
+=======
+|5|[Lecture 8: Bayesian 3/3]({filename}/lectures/lecture08/index.md)|Lecture 9: ML/NN Roadmap|[Lab 4: Bayesian]({filename}/labs/lab04/index.md)||No New Assignment|
+>>>>>>> upstream/master
 |6|[Lecture 10: CNN-1]({filename}/lectures/lecture10/index.md)|[Lecture 11: CNN-2]({filename}/lectures/lecture11/index.md)|Lab 5: CNNs-1|A-Sec 1: ResNet, Dense-Net, res-Next and Inception and transfer learning|HW4 - R: 3/4 D: 3/12|
 |7|[Lecture 12: Autoencoders + Unet]({filename}/lectures/lecture12/index.md)|[Lecture 13: RNN1]({filename}/lectures/lecture13/index.md)|Lab 6: CNNs -2|A-Sec 2: Segmentation Techniques, YOLO, Unet and M-RCNN|HW5 - R: 3/11 D: 3/26|
 |8|No Lecture (Spring Break)|No Lecture |No Lab |No A-Sec |No New Assignment|
