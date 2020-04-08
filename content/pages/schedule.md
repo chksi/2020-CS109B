@@ -12,6 +12,7 @@ Slug: schedule
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Date: 2020-02-05
 =======
 Date: 2020-02-09
@@ -93,6 +94,9 @@ Date: 2020-04-01
 |15|PROJECT WORK |PROJECT WORK ||||
 =======
 Date: 2020-04-06
+=======
+Date: 2020-04-08
+>>>>>>> upstream/master
 
 
 |Week|Lecture (Mon)|Lecture (Weds)|Lab (Mon)|Advanced Section (Weds)|Assignment (R:Released Weds - D:Due Thurs)||
